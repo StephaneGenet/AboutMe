@@ -35,7 +35,7 @@ U don't want my pizza
 *A blonde went to buy a Pizza and after ordering, the assistant asked the blonde
 if she would like her pizza cut into six pieces or twelve.*
 
-“Six please” she said, “I could never eat twelve!
+“Six please” she said, “I could never eat twelve! ![](https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/16/Emotes-face-laugh-icon.png)![](https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/16/Emotes-face-laugh-icon.png)![](https://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/16/Emotes-face-laugh-icon.png)
 
 
 <br>
