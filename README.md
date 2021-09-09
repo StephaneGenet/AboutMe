@@ -4,8 +4,9 @@
 ![](me1.png)
 
 
+<br>
 
-## Pizza, coffee, Pizza, coffee, Pizza...
+## Pizza, Coffee, Pizza, Coffee,...
 |||
 |------------- | ----------------- |
 | Birthday | January 22|
@@ -13,7 +14,7 @@
 | Favorite food | ![](https://icons.iconarchive.com/icons/google/noto-emoji-food-drink/16/32384-pizza-icon.png) |
 | Pinneapple on pizza: Yes/No | ![](https://icons.iconarchive.com/icons/google/noto-emoji-symbols/16/73030-no-entry-icon.png) |
 
-
+<br>
 
 ## Hobbies
 * Drikin' Coffee
@@ -23,16 +24,22 @@
     - What's my baby is tryin' to ask
     - My teenager
 
+<br>
 
+## You can always count on me when... 
+U don't want my pizza
+
+<br>
 
 ## Funny story
-    // TODO
+*A blonde went to buy a Pizza and after ordering, the assistant asked the blonde
+if she would like her pizza cut into six pieces or twelve.*
+
+“Six please” she said, “I could never eat twelve!
 
 
+<br>
 
+## Meet my friends
 
-### TL; DR
-    // TODO Summarise your funny story in one short sentence.
-
-
-<< [Rouslan Boyko](https://github.com/RouslanBoyko/markdown-challenge) || [me](https://github.com/StephaneGenet/AboutMe) || [Thomas Backers](https://github.com/ThomasBackers/Markdown-challenge/blob/main/README.md) >>
+<< [Rouslan Boyko](https://github.com/RouslanBoyko/markdown-challenge)  || [Thomas Backers](https://github.com/ThomasBackers/Markdown-challenge/blob/main/README.md) >>
